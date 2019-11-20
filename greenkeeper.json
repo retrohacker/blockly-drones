@@ -1,0 +1,11 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "ace/package.json",
+        "blockly/package.json",
+        "package.json"
+      ]
+    }
+  }
+}
